@@ -1,0 +1,32 @@
+{
+  "name": "daraff-cli-test",
+  "version": "1.0.0",
+  "description": "Just a hello world to test cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "daraff-cli-test": "bin/daraff-cli-test.js",
+    "daraff-cli-test2": "bin/daraff-cli-test2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaRaFF/daraff-cli-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaRaFF/daraff-cli-test/issues"
+  },
+  "homepage": "https://github.com/DaRaFF/daraff-cli-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.18.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
