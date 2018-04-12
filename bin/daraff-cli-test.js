@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log('hello-daraff-cli')
+console.log('daraff-cli-test -> the default executable')
